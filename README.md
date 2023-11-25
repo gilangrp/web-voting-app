@@ -1,6 +1,7 @@
 # Wweb Vote App
 
 Sebuah aplikasi sistem pemilihan voting ketua.
+![Teks Alternatif](https://drive.google.com/drive/folders/1gLBg-aizPxUVl-vi-9_STw-ttuyYj-7c?hl=id)
 
 ## Persyaratan Sistem
 
