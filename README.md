@@ -1,4 +1,4 @@
-# Wweb Vote App
+# Web Vote App
 
 Sebuah aplikasi sistem pemilihan voting ketua.
 
