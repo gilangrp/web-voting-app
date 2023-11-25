@@ -1,6 +1,6 @@
-# Nama Proyek Laravel
+# Wweb Vote App
 
-Deskripsi singkat proyek Laravel Anda di sini.
+Sebuah aplikasi sistem pemilihan voting ketua.
 
 ## Persyaratan Sistem
 
@@ -8,7 +8,7 @@ Sebelum memulai, pastikan sistem Anda memenuhi persyaratan berikut:
 
 - PHP versi 7.x
 - Composer
-- Laravel versi 8.x
+- Laravel versi 9.x
 
 ## Instalasi
 
@@ -60,21 +60,9 @@ Proyek sekarang dapat diakses di [http://localhost:8000](http://localhost:8000).
 
 ## Penggunaan
 
-Deskripsikan cara menggunakan atau berkontribusi pada proyek Anda di sini.
+Ganti konten gambar sesuai yang anda perlukan.
 
-## Lisensi
-
-Tuliskan lisensi proyek Anda di sini. Contoh: MIT, GPL, dll.
-
-## Kontak
-
-Tambahkan informasi kontak jika ada pertanyaan atau masukan.
 
 ## Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat *pull request*.
-
-## Catatan Tambahan
-
-Tuliskan catatan tambahan atau informasi khusus di sini.
-
